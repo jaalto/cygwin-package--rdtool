@@ -1,0 +1,2 @@
+tag1: rdtool
+  http://packages.debian.org/unstable/rdtool pregexp:orig.tar.gz file:rdtool_0.6.20.orig.tar.gz new: x:

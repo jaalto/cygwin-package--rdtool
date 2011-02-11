@@ -1,0 +1,70 @@
+rdtool
+------------------------------------------
+
+RD document formatter
+
+RD is multipurpose documentation format created for documentating Ruby
+and output of Ruby world. You can embed RD into Ruby script. And RD
+have neat syntax which help you to read document in Ruby script. On
+the other hand, RD have a feature for class reference.
+
+Runtime requirements:
+  cygwin
+  ruby
+
+Build requirements:
+  cygwin
+  ruby
+
+Canonical homepage:
+  http://raa.ruby-lang.org/project/rdtool
+  http://packages.debian.org/rdtool
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+  http://trac.moonwolf.com/rdtool/wiki
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: MoonWolf <moonwolf@moonwolf.com>
+  Bugs: MoonWolf <moonwolf@moonwolf.com>
+
+License:
+  Ruby
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack rdtool-*-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./rdtool*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+- rd2.1 manual page copied from Debian.
+- rdswap: No manual page, not even in Debian. Wrote one from the
+  output of "ruby rdswap.rb -h"
+
+----- version 0.6.20-1 -----
+- Initial release 2008-02-29 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
