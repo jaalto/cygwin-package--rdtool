@@ -54,7 +54,7 @@ Build instructions:
 ------------------------------------------
 
 Files included in the binary distribution:
-  See content of *.tar.gz
+  See Cygwin package archive
 
 ------------------------------------------
 
@@ -63,8 +63,11 @@ Port Notes:
 - rdswap: No manual page, not even in Debian. Wrote one from the
   output of "ruby rdswap.rb -h"
 
+----- version 0.6.34-1 -----
+- New upstream release 2012-09-15 Jari Aalto
+
 ----- version 0.6.20-1 -----
 - Initial release 2008-02-29 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2012 Jari Aalto; Licensed under GPL v2 or later

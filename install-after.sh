@@ -35,8 +35,9 @@ Main()
     root=$(echo $root | sed 's,/$,,')  # Delete trailing slash
     bindir=$root/usr/bin
 
-    echo ">> Remove *.rb extension"
-    Cmd mv $bindir/rdswap.rb $bindir/rdswap
+    # No longer needed
+    # echo ">> Remove *.rb extension"
+    # Cmd mv $bindir/rdswap.rb $bindir/rdswap
 }
 
 Main "$@"
