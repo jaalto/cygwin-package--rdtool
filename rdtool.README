@@ -63,6 +63,9 @@ Port Notes:
 - rdswap: No manual page, not even in Debian. Wrote one from the
   output of "ruby rdswap.rb -h"
 
+----- version 0.6.38-2 -----
+- Rebuilt for Ruby 2.2.4p230
+
 ----- version 0.6.38-1 -----
 - New upstream release 2013-09-20 Jari Aalto
 
@@ -73,4 +76,4 @@ Port Notes:
 - Initial release 2008-02-29 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008-2013 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2016 Jari Aalto; Licensed under GPL v2 or later

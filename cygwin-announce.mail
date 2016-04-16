@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: rdtool 0.6.38-1 -- RD document formatter
+Subject: Updated: rdtool 0.6.38-2 -- RD document formatter
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -22,7 +22,7 @@ and /usr/share/doc/<package>/HISTORY
 INSTALL OR UPGRADE NOTES
 ========================
 
-For Ruby 1.9.
+Rebuilt for Ruby 2.2
 
 Standard install.
 
