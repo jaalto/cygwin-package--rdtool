@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "RD document formatter"
 ldesc: "RD is multipurpose documentation format created for documentating Ruby
 and output of Ruby world. You can embed RD into Ruby script. And RD
